@@ -1,8 +1,8 @@
-<img src="https://facebook.github.io/react/img/logo.svg" alt="react boilerplate banner" align="center" />
+<img src="https://facebook.github.io/react/img/logo.svg" height="250" width="250" alt="react boilerplate banner"/>
 
 <br />
 
-<div align="center"><strong>just boiler plate !! tasting ReatJS</strong></div>
+<div><strong>just boiler plate !! tasting ReatJS</strong></div>
 
 <br />
 
