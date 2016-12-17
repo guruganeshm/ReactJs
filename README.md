@@ -2,7 +2,7 @@
 
 <br />
 
-<div><strong>just boiler plate !! tasting ReatJS</strong></div>
+<div><strong>Just an Boiler plate !! Getting taste of ReactJS</strong></div>
 
 <br />
 
